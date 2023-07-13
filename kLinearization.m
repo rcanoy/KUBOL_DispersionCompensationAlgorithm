@@ -1,6 +1,6 @@
 function [background_klinearized]  = kLinearization(background)
 % -------------------------------------------------------------------------
-% Author: Raymart Jay E. Canoy and Yong Guk Kang
+% Author: Yong Guk Kang and Raymart Jay E. Canoy
 % Email: recanoy@alum.up.edu.ph
 % Latest Revision: 21 February 2023
 % -------------------------------------------------------------------------
