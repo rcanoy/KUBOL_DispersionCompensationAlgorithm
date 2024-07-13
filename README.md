@@ -1,5 +1,9 @@
 # KUBOL_DispersionCompensationAlgorithm
-Dispersion compensation algorithm which is based on the optimisation of the coefficient of variation of a cross-sectional Optical Coherence Microscope image.
+Dispersion compensation algorithm which is based on the optimisation of the coefficient of variation of a cross-sectional Optical Coherence Microscope images.
+
+Note:
+These codes were written during my Master of Engineering in Biomicrosystem Engineering degree at the Korea University Biomedical Optics Laboratory (2020-2022) under the supervision of Professor Beop-Min Kim.
+For questions or suggestions to improve the codes, please email recanoy@alum.up.edu.ph.
 
 ### Files:
 
